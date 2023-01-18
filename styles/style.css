@@ -1,0 +1,5 @@
+.hero.is-dark .title {
+    color: red;
+    -webkit-text-stroke: 1px #FFF;
+    text-stroke: 3px #FFF;
+}
